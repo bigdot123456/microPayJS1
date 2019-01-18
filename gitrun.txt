@@ -20,3 +20,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 git push -v --progress "https://github.com/bigdot123456/microPayJS1" master:origin
 
+git command 
+
